@@ -1,0 +1,38 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.pdb
+C:\Users\User\OneDrive\Готовые лабы\4 семестр\Алгоритмы\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.exe.config
+C:\Users\User\OneDrive\Готовые лабы\4 семестр\Алгоритмы\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.exe
+C:\Users\User\OneDrive\Готовые лабы\4 семестр\Алгоритмы\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.pdb
+C:\Users\User\OneDrive\Готовые лабы\4 семестр\Алгоритмы\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.exe
+C:\Users\User\OneDrive\Готовые лабы\4 семестр\Алгоритмы\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.pdb
+C:\Users\User\OneDrive\Готовые лабы\4 семестр\Алгоритмы\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Готовые лабы\4 семестр\Алгоритмы\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.Form1.resources
+C:\Users\User\OneDrive\Готовые лабы\4 семестр\Алгоритмы\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.Properties.Resources.resources
+C:\Users\User\OneDrive\Готовые лабы\4 семестр\Алгоритмы\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.exe.config
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.exe
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.pdb
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.exe
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.pdb
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.Form1.resources
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.Form2.resources
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.Form3.resources
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.Properties.Resources.resources
+C:\Users\User\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.csproj.GenerateResource.Cache
+C:\Users\Ben\Desktop\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.exe.config
+C:\Users\Ben\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.exe
+C:\Users\Ben\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.pdb
+C:\Users\Ben\Desktop\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.exe
+C:\Users\Ben\Desktop\Lab1_spiridonova\Lab1_spiridonova\bin\Debug\Lab1_spiridonova.pdb
+C:\Users\Ben\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.Form1.resources
+C:\Users\Ben\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.Properties.Resources.resources
+C:\Users\Ben\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.csproj.GenerateResource.Cache
+C:\Users\Ben\Desktop\Lab1_spiridonova\Lab1_spiridonova\obj\Debug\Lab1_spiridonova.csprojResolveAssemblyReference.cache
